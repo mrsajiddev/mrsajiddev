@@ -1,6 +1,6 @@
 # Hi, I'm Muhammad Sajid 👋
 
-**Senior Software Engineer** from Lahore, Pakistan, building scalable web applications for nearly six years.
+**Senior Software Engineer** from Lahore, Pakistan, building scalable web applications for six years.
 
 I work mainly with **PHP, Laravel and WordPress**, and across the full stack with **React, Next.js and Node.js**. I enjoy designing clean APIs, solving performance problems and automating deployments, and I'm increasingly focused on bringing **AI into real-world software**.
 
